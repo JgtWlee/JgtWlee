@@ -1,6 +1,3 @@
-
-<!-- Profil GitHub Animasi by ChatGPT (untuk JgtWlee) -->
-
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+JgtWlee!;Welcome+to+my+GitHub+Profile!;Code+%7C+Create+%7C+Repeat+💻" alt="Typing SVG" />
 </h1>
