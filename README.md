@@ -61,5 +61,6 @@
 
 ### 🎶 Fun Outro
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=00FFB3&center=true&vCenter=true&width=550&lines=Thanks+for+visiting!+💖;Keep+coding,+stay+awesome!+🔥" alt="Typing Animation" />
+  <b>Thanks for visiting 💖</b><br/>
+  <i>Keep coding, stay awesome! 🔥</i>
 </p>
